@@ -1,1 +1,3 @@
-Este es el archivo C
+let hola = 'Hola mundo!';
+
+console.log (hola)
